@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  az400m03l03a-pool
+  SummativeQuestion3PoolTiaan
 
 steps:
 - script: echo Hello, world!
